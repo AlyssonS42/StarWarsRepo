@@ -6,3 +6,4 @@ Vader/Anakin
 Obi-Wan
 Yoda
 Palpatine
+R2-D2
