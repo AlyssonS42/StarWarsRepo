@@ -3,6 +3,6 @@ Leia
 Rey
 Han
 Chewie
-Vader
-Anakin
+Vader/Anakin
 Obi-Wan
+Yoda
