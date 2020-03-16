@@ -1,8 +1,8 @@
 Luke
 Leia
-Rey
 Han
 Chewie
 Vader/Anakin
 Obi-Wan
 Yoda
+Palpatine

@@ -1,0 +1,5 @@
+vermelho
+azul
+verde
+dourado
+roxo
