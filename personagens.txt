@@ -7,3 +7,6 @@ Obi-Wan
 Yoda
 Palpatine
 R2-D2
+
+Rey
+Finn
